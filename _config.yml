@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @yadidya_b
+  username               : https://twitter.com/yadidya_b #&twitter 
 facebook:
   username               :
   app_id                 :
