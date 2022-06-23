@@ -1,7 +1,7 @@
 ---
 title: "Simulation of diurnal variability in vertical density structure using a coupled model"
 collection: publications
-permalink: /publication/2021-05-25-scientific-reports.md
+permalink: /publication/2021-05-25-scientific-reports
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-05-25
 venue: '<b>Scientific Reports</b>'
@@ -10,6 +10,7 @@ venue: '<b>Scientific Reports</b>'
 ---
 
 Impact factor: 
+
 Altemteric: 
 
 ---
