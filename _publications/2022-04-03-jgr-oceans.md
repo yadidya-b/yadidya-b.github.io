@@ -8,11 +8,9 @@ venue: '<b>Journal of Geophysical Research: Oceans</b>'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: '<b>Yadidya, B.</b>, Rao, A. D., & Latha, G. (2022). &quot;Investigation of Internal Tides Variability in the Andaman Sea: Observations and Simulations.&quot; <i>Journal of Geophysical Research: Oceans</i>, 127(4), e2021JC018321. https://doi.org/10.1029/2021JC018321'
 ---
-Authors: B. Yadidya, A. D. Rao, G. Latha
-
-Impact factor: 3.405
-
-Altimetric: 
+##### Authors: B. Yadidya, A. D. Rao, G. Latha
+##### Impact factor: 3.405
+##### Altimetric: 
 
 ---
 
