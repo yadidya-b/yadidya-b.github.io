@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "B. Yadidya"
-  avatar           : # "profile.png"
+  avatar           : "profile.JPG"  # "profile.png"
   bio              : "Ph.D. candidate"
   location         : "New Delhi, India"
   employer         :
