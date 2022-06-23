@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 Hi!
-I'm B. Yadidya, a Senior Research Fellow (Ph.D. candidate) at the [Centre for Atmospheric Sciences](https://cas.iitd.ac.in/), [Indian Insitute of Tehcnology Delhi](https://home.iitd.ac.in/).  
+I'm B. Yadidya, a Senior Research Fellow (Ph.D. candidate) at the [Centre for Atmospheric Sciences](https://cas.iitd.ac.in/), [Indian Insitute of Technology Delhi](https://home.iitd.ac.in/).  
