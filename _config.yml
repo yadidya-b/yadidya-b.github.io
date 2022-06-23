@@ -83,10 +83,10 @@ author:
   name             : "B. Yadidya"
   avatar           : # "profile.png"
   bio              : "Ph.D. candidate"
-  location         : "Location"
+  location         : "https://www.google.com/maps/place/Center+for+Atmospheric+Sciences,+IIT+Delhi/@28.5468917,77.188603,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1df424916acd:0x783219b8f7957c16!8m2!3d28.5468917!4d77.1907917"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.co.in/citations?user=Ro4ihM0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.co.in/citations?user=Ro4ihM0AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/B-Yadidya-2" 
   uri              :
