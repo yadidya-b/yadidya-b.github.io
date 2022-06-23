@@ -11,6 +11,6 @@ citation: 'Mohanty, S., Rao, A. D., & &quot;Yadidya, B.&quot; (2019). Spatial an
 
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/content/pdf/10.1007/s00024-019-02221-4.pdf)
 
 
