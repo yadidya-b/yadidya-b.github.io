@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter # &yadidya_b #https://twitter.com/yadidya_b  
+  username               : &twitter   
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,10 @@ author:
   bio              : "Ph.D. candidate"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.in/citations?user=Ro4ihM0AAAAJ&hl=en"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"https://scholar.google.co.in/citations?user=Ro4ihM0AAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/B-Yadidya-2" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/B-Yadidya-2" 
   uri              :
   bitbucket        :
   codepen          :
