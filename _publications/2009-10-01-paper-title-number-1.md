@@ -11,9 +11,6 @@ citation: 'Mohanty, S., Rao, A. D., & &quot;Yadidya, B.&quot; (2019). Spatial an
 
 ---
 
-
-% [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-% Recommended citation: Mohanty, S., Rao, A. D., & &quot;Yadidya, B.&quot; (2019). "Spatial and Temporal Variability of Semidiurnal Internal Tide Energetics in the Western Bay of Bengal." <i>Pure and Applied Geophysics</i>, 176(11), 5203–5215. https://doi.org/10.1007/s00024-019-02221-4
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 
