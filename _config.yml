@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "B. Yadidya"
   avatar           : "profile.JPG"  # "profile.png"
-  bio              : "Ph.D. candidate"
+  bio              : "Ph.D. candidate, Indian Institute of Technology Delhi"
   location         : "New Delhi, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=Ro4ihM0AAAAJ&hl=en"
-  email            :
+  email            : "yadidyabadarvada@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/B-Yadidya-2" 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yadidya-badarvada-0132931a3/"
   orcid            : "https://orcid.org/0000-0001-6897-8134"
   pinterest        :
   soundcloud       :
