@@ -8,8 +8,9 @@ venue: '<b>Scientific Reports</b>'
 #paperurl: 'https://www.nature.com/articles/s41598-021-90426-w'
 #citation: '<b>Yadidya, B.</b>, Rao, A. D., & Mohanty, S. (2021). &quot;Simulation of diurnal variability in vertical density structure using a coupled model.&quot; <i>Scientific Reports</i>, 11(1), 10916. https://doi.org/10.1038/s41598-021-90426-w'
 ---
+Authors: B. Yadidya, A. D. Rao, S. Mohanty
 
-Impact factor: 
+Impact factor:  
 
 Altemteric: 
 
