@@ -1,7 +1,7 @@
 ---
 title: "Investigation of Internal Tides Variability in the Andaman Sea: Observations and Simulations"
 collection: publications
-# permalink: /publication/2022-04-03-jgr-oceans
+permalink: /publication/2022-04-03-jgr-oceans
 date: 2022-04-03
 doi: '10.1029/2021JC018321'
 link1: 'https://doi.org/10.1029/2021JC018321'
