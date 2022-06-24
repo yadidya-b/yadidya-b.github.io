@@ -2,6 +2,7 @@
 title: "Spatial and Temporal Variability of Semidiurnal Internal Tide Energetics in the Western Bay of Bengal"
 collection: publications
 permalink: /publication/2019-05-22-pure-applied-geophysics
+doi: '10.1007/s00024-019-02221-4'
 excerpt: 'Mohanty, S., Rao, A. D., & <b>Yadidya, B.</b> (2019). &quot;Spatial and Temporal Variability of Semidiurnal Internal Tide Energetics in the Western Bay of Bengal.&quot; <b><i>Pure and Applied Geophysics</i></b>, 176(11), 5203–5215. https://doi.org/10.1007/s00024-019-02221-4'
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s00024-019-02221-4"></div>
