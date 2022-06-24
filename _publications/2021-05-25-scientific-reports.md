@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2021-05-25-scientific-reports
 date: 2021-05-25
 doi: '10.1038/s41598-021-90426-w'
-link: 'https://doi.org/10.1038/s41598-021-90426-w'
-paperurl: 'https://www.nature.com/articles/s41598-021-90426-w.pdf'
-citation: '<b>Yadidya, B.</b>, Rao, A. D., & Mohanty, S. (2021). &quot;Simulation of diurnal variability in vertical density structure using a coupled model.&quot; <b><i>Scientific Reports</i></b>, 11(1), 10916. https://doi.org/10.1038/s41598-021-90426-w'
+link1: 'https://doi.org/10.1038/s41598-021-90426-w'
+paperurl1: 'https://www.nature.com/articles/s41598-021-90426-w.pdf'
+citation1: '<b>Yadidya, B.</b>, Rao, A. D., & Mohanty, S. (2021). &quot;Simulation of diurnal variability in vertical density structure using a coupled model.&quot; <b><i>Scientific Reports</i></b>, 11(1), 10916. https://doi.org/10.1038/s41598-021-90426-w'
 ---
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-021-90426-w" data-legend="always" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 

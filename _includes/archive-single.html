@@ -41,15 +41,15 @@
     {% endif %}
     
     <div class="row">
-      {% if post.citation %}
-        {{ post.citation }}
+      {% if post.citation1 %}
+        {{ post.citation1 }}
       {% endif %}
       <br>
       {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+        <a href="{{ post.link1 }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <a href="{{ post.paperurl1 }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.doi %}
         <span class="__dimensions_badge_embed__" data-doi='{{ post.doi }}' data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> 
