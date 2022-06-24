@@ -6,7 +6,8 @@ date: 2021-05-25
 doi: '10.1038/s41598-021-90426-w'
 excerpt: '<b>Yadidya, B.</b>, Rao, A. D., & Mohanty, S. (2021). &quot;Simulation of diurnal variability in vertical density structure using a coupled model.&quot; <i>Scientific Reports</i>, 11(1), 10916. https://doi.org/10.1038/s41598-021-90426-w'
 ---
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-021-90426-w" data-legend="always"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-021-90426-w" data-legend="always" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><div class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi='10.1038/s41598-021-90426-w'></div>
 
 ---
