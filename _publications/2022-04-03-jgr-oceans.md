@@ -4,13 +4,13 @@ collection: publications
 permalink: /publication/2022-04-03-jgr-oceans
 date: 2022-04-03
 doi: '10.1029/2021JC018321'
-excerpt: '<font color="red"> [<b>Yadidya, B.</b>, Rao, A. D., & Latha, G. (2022). &quot;Investigation of Internal Tides Variability in the Andaman Sea: Observations and Simulations.&quot; <b><i>Journal of Geophysical Research: Oceans</i></b>, 127(4), e2021JC018321.](https://t.co/FQvVwVUBYc) [https://doi.org/10.1029/2021JC018321](https://doi.org/10.1029/2021JC018321) </font>'
+excerpt: '<<a href="https://t.co/FQvVwVUBYc" style="color: red;"> <b>Yadidya, B.</b>, Rao, A. D., & Latha, G. (2022). &quot;Investigation of Internal Tides Variability in the Andaman Sea: Observations and Simulations.&quot; <b><i>Journal of Geophysical Research: Oceans</i></b>, 127(4), e2021JC018321.custom link</a> [https://doi.org/10.1029/2021JC018321](https://doi.org/10.1029/2021JC018321)'
 ---
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2021JC018321" data-legend="always" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><div class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi='10.1029/2021JC018321'></div>
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://www.google.com/" style="color: red;">custom link</a>
 ---
 
 Abstract:
