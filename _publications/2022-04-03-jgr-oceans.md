@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-04-03-jgr-oceans
 date: 2022-04-03
 doi: '10.1029/2021JC018321'
-excerpt: '<b>Yadidya, B.</b>, Rao, A. D., & Latha, G. (2022). &quot;Investigation of Internal Tides Variability in the Andaman Sea: Observations and Simulations.&quot; <i>Journal of Geophysical Research: Oceans</i>, 127(4), e2021JC018321. https://doi.org/10.1029/2021JC018321'
+excerpt: '<b>Yadidya, B.</b>, Rao, A. D., & Latha, G. (2022). &quot;[Investigation of Internal Tides Variability in the Andaman Sea: Observations and Simulations](https://t.co/FQvVwVUBYc).&quot; <i>[Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)</i>, 127(4), e2021JC018321. [https://doi.org/10.1029/2021JC018321](https://doi.org/10.1029/2021JC018321)'
 ---
 <span class="__dimensions_badge_embed__" data-doi="10.1029/2021JC018321" data-legend="always" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
