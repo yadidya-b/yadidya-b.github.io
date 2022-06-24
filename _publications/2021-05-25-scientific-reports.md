@@ -11,7 +11,7 @@ excerpt: '<b>Yadidya, B.</b>, Rao, A. D., & Mohanty, S. (2021). &quot;Simulation
 
 Impact factor:  4.38
 
-<object height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi=10.1038/s41598-021-90426-w&apiKey=233ec7dee00befb25583f68c7c76bbc6&httpAccept=text/html"></object>
+<div height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi=10.1038/s41598-021-90426-w&apiKey=233ec7dee00befb25583f68c7c76bbc6&httpAccept=text/html"></div>
 
 ---
 Abstract:
