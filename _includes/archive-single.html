@@ -29,7 +29,6 @@
     
 
     <!-- citation and icon code -->
-    <p>
     <h2 class="archive__item-title" itemprop="headline">
       <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
     </h2>
@@ -40,25 +39,23 @@
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% endif %}
-    {% if post.citation %}
-      {{ post.citation }}
-    {% endif %}
-    </p>
-
     
-    <div class="column">
-        {% if post.link %}
-          <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-        {% endif %}
-        {% if post.doi %}
-          <span class="__dimensions_badge_embed__" data-doi='{{ post.doi }}' data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> 
-        {% endif %}
-        {% if post.doi %}        
-          <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><div class='altmetric-embed' data-doi='{{ post.doi }}'></div>
-        {% endif %}
+    <div class="row">
+      {% if post.citation %}
+        {{ post.citation }}
+      {% endif %}
+      {% if post.link %}
+        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.doi %}
+        <span class="__dimensions_badge_embed__" data-doi='{{ post.doi }}' data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> 
+      {% endif %}
+      {% if post.doi %}        
+        <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><div class='altmetric-embed' data-doi='{{ post.doi }}'></div>
+      {% endif %}
     </div>
   </article>
 </div>
