@@ -7,7 +7,7 @@ excerpt: 'Mohanty, S., Rao, A. D., & <b>Yadidya, B.</b> (2019). &quot;Spatial an
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><div class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.1007/s00024-019-02221-4"></div>
 
-Impact factor: 2.335
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00024-019-02221-4" data-legend="always"></span>
 ---
 
 Abstract:
