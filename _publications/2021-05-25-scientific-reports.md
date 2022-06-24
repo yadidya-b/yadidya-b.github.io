@@ -11,6 +11,8 @@ excerpt: '<b>Yadidya, B.</b>, Rao, A. D., & Mohanty, S. (2021). &quot;Simulation
 
 Impact factor:  4.38
 
+<object height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi=10.1016/j.envsoft.2008.06.011&apiKey=233ec7dee00befb25583f68c7c76bbc6&httpAccept=text/html"></object>
+
 ---
 Abstract:
 The changes in the physical properties of the ocean on a diurnal scale primarily occur in the surface mixed layer and the pycnocline. Price–Weller–Pinkel model, which modifies the surface mixed layer, and the internal wave model based on Garrett–Munk spectra that calculates the vertical displacements due to internal waves are coupled to simulate the diurnal variability in temperature and salinity, and thereby density profiles. The coupled model is used to simulate the hourly variations in density at <font color="green"> RAMA </font> buoy (15° N, 90° E), in the central Bay of Bengal, and at BD12 (10.5° N, 94° E), in the Andaman Sea. The simulations are validated with the in-situ observations from December 2013 to November 2014. The primary advantage of this model is that it could simulate spatial variability as well. An integrated model is also tested and validated by using the output of the 3D model to initialize the coupled model during January, April, July, and October. The 3D model can be used to initialize the coupled model at any given location within the model domain to simulate the diurnal variability of density. The simulations showed promising results which could be further used in simulating the acoustic fields and propagation losses which are crucial for Navy operations.
