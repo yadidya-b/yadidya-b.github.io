@@ -20,20 +20,19 @@ Education
   * *Thesis*: Undercurrent along the east coast of India
   * *Advisors*: Prof. K.V.S.R. Prasad, Dr. Abhisek Chatterjee
 * ### B. Sc. Physics
- * ***Andhra Loyola College***, 2011 - 2014
- * Minors in Maths and Chemistry
+  * ***Andhra Loyola College***, 2011 - 2014
+  * Minors in Maths and Chemistry
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *May 2020 - present*: **Senior Research Fellow**
+  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, India
+* *May 2018 - May 2020*: **Junior Research Fellow**
+  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, India
+* *July 2017 - May 2018*: **Project Associate**
+  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, India
+* *December 2016 - April 2017*: **Project Student**
+  * ESSO - Indian National Centre for Ocean Information Services, Hyderabad, India
   
 Skills
 ======
