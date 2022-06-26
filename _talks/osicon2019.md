@@ -2,8 +2,8 @@
 title: "Simulation of diurnal variability in the vertical structure of temperature using a 1-D coupled model"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/osicon2019
 venue: "OSICON"
-date: 2019-01-01
-location: "Kochi, Kerala, India"
+date: 2019-12-13
+location: "CMLRE, Kochi, India"
 ---
