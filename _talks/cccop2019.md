@@ -6,5 +6,6 @@ permalink: /talks/cccop2019
 venue: "CCCOP"
 date: 2019-07-05
 location: "IIT Delhi, New Delhi"
+value: "2"
 
 ---
