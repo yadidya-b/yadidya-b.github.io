@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* ## Ph. D. Oceanography 
-  * Indian Institute of Technology Delhi, 2023 (expected)
-  * Thesis: Variability of Internal Waves in the Andaman Sea
-  * Advisors: Prof. A. D. Rao and Prof. Vimlesh Pant
-* B.Sc. in Physics, Andhra Loyola College, 2014
-* M.Sc. in Physical Oceanography, Andhra University, 2017
-* Ph.D in Oceanography, Indian Insitute of Technology Delhi, 2023 (expected)
+* ### Ph. D. Oceanography 
+  * ***Indian Institute of Technology Delhi***, 2018 - 2023 (expected)
+  * *Thesis*: Variability of Internal Waves in the Andaman Sea
+  * *Advisors*: Prof. A. D. Rao and Prof. Vimlesh Pant
+* ### M. Sc. Physical Oceanography
+  * ***Andhra University***, 2015 - 2017
+  * *Thesis*: Undercurrent along the east coast of India
+  * *Advisors*: Prof. K.V.S.R. Prasad, Dr. Abhisek Chatterjee
+* ### B. Sc. Physics
+ * ***Andhra Loyola College***, 2011 - 2014
+ * Minors in Maths and Chemistry
 
 Work experience
 ======
