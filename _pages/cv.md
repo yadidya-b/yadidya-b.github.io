@@ -36,12 +36,22 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ### Numerical Modeling
+  * Massachusetts Institute of Technology General Circulation Model **(MITgcm)**
+  * Regional Ocean Modeling System **(ROMS)**
+  * Price Weller Pinkel **(PWP)** model
+  * Garrett Munk **(GM)** model
+* ### Programming
+  * Python
+  * Matlab
+  * Julia
+  * FORTRAN
+* ### Tools
+  * Pyferret
+  * NCAR Command Language (NCL)
+  * Paraview
+  * PANGEO
+
 
 Publications
 ======
