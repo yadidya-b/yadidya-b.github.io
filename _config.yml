@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "B. Yadidya"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "B. Yadidya"
 description              : &description "Ph.D. candidate"
@@ -310,6 +310,6 @@ compress_html:
   ignore:
     envs: development
 
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
-remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: pages-themes/midnight@v0.2.0
