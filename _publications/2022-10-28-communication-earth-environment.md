@@ -1,7 +1,7 @@
 ---
 title: "Projected climate variability of internal waves in the Andaman Sea"
 collection: publications
-permalink: /publication/2022-06-30-scientific-reports
+permalink: /publication/2022-10-28-communication-earth-environment
 date: 2022-10-28
 doi: '10.1038/s43247-022-00574-8'
 link1: 'https://doi.org/10.1038/s43247-022-00574-8'
