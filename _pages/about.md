@@ -11,8 +11,11 @@ redirect_from:
 Hi!
 I'm B. Yadidya, a Senior Research Fellow (Ph.D. candidate) at the [Centre for Atmospheric Sciences](https://cas.iitd.ac.in/), [Indian Insitute of Technology Delhi](https://home.iitd.ac.in/).
 My Ph.D. is funded by the Department of Science and Technology, India under the INSPIRE fellowship. 
-I'm working on the **"Variability of Internal waves in the Andaman Sea"** under the supervision of [Prof. A. D. Rao](https://web.iitd.ac.in/~adrao/) and [Prof. Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/).
+I submitted by thesis on the **"Variability of Internal waves in the Andaman Sea"** under the supervision of [Prof. A. D. Rao](https://web.iitd.ac.in/~adrao/) and [Prof. Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/). 
+During my PhD, I've been studying the variability of internal waves across multiple timescales ranging from diurnal, seasonal, interannual to climate scales in one of the hotspot regions for large-amplitude internal waves - the Andaman Sea. 
 
+
+---
 
 **I'm currently searching for a post-doc position**
 
