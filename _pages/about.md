@@ -14,6 +14,9 @@ My Ph.D. is funded by the Department of Science and Technology, India under the 
 I'm working on the **"Variability of Internal waves in the Andaman Sea"** under the supervision of [Prof. A. D. Rao](https://web.iitd.ac.in/~adrao/) and [Prof. Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/).
 
 
+**I'm currently searching for a post-doc position**
+
+---
 
 # Publications
 
