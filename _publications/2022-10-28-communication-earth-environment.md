@@ -6,7 +6,7 @@ date: 2022-10-28
 doi: '10.1038/s43247-022-00574-8'
 link1: 'https://doi.org/10.1038/s43247-022-00574-8'
 paperurl1: 'https://www.nature.com/articles/s43247-022-00574-8.pdf'
-citation1: '<b>Yadidya, B.</b>, & Rao, A. D. (2022). &quot;Projected climate variability of internal waves in the Andaman Sea. &quot; <b><i>Communications Earth & Environment</i></b>, 3, 252. https://doi.org/10.1038/s43247-022-00574-8'
+citation1: '<b>Yadidya, B.</b>, & Rao, A. D. (2022). &quot;Projected climate variability of internal waves in the Andaman Sea.&quot; <b><i>Communications Earth & Environment</i></b>, 3, 252. https://doi.org/10.1038/s43247-022-00574-8'
 ---
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-022-00574-8" data-legend="always" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
