@@ -16,8 +16,8 @@ During my PhD, I've looked at the variability of internal waves across multiple 
 
 
 ---
+<span style="color:red"> ***I'm currently searching for a post-doc position*** </span>
 
-**I'm currently searching for a post-doc position**
 
 ---
 
