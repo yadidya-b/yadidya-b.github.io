@@ -15,8 +15,8 @@ I worked on the **"Variability of Internal waves in the Andaman Sea"** under the
 During my PhD, I've looked at the variability of internal waves across multiple timescales ranging from [diurnal](https://www.nature.com/articles/s41598-021-90426-w), [seasonal](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC018321), [interannual](https://www.nature.com/articles/s41598-022-15301-8) to [climate](https://www.nature.com/articles/s43247-022-00574-8) scales in one of the hotspot regions for large-amplitude internal waves - the Andaman Sea. 
 
 
----
-<span style="color:red"> **I'm currently looking for a post-doc position** </span>
+<!-- --- -->
+<!-- <span style="color:red"> **I'm currently looking for a post-doc position** </span> -->
 
 
 ---
