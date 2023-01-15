@@ -27,6 +27,7 @@ Work experience
 ======
 * *Febraury 2023 - present*: **Postdoctoral Research Fellow**
   * Department of Earth and Environmental Sciences, Univeristy of Michigan, Ann Arbor, USA
+  * Advisor - [Prof. Brian K. Arbic](https://arbic.earth.lsa.umich.edu/)
 * *May 2020 - January 2023*: **Senior Research Fellow**
   * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, New Delhi, India
 * *May 2018 - May 2020*: **Junior Research Fellow**
@@ -41,8 +42,8 @@ Skills
 * ### Numerical Modeling
   * Massachusetts Institute of Technology General Circulation Model **(MITgcm)**
   * Regional Ocean Modeling System **(ROMS)**
-  * Price Weller Pinkel **(PWP)** model
-  * Garrett Munk **(GM)** model
+  <!-- * Price Weller Pinkel **(PWP)** model
+  * Garrett Munk **(GM)** model -->
 * ### Programming
   * Python
   * Matlab
