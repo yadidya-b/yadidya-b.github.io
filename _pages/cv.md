@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * ### Ph. D. Oceanography 
-  * ***Indian Institute of Technology Delhi***, 2018 - 2023 (expected)
+  * ***Indian Institute of Technology Delhi***, May 2018 - January 2023
   * *Thesis*: Variability of Internal Waves in the Andaman Sea
   * *Advisors*: Prof. A. D. Rao and Prof. Vimlesh Pant
 * ### M. Sc. Physical Oceanography
@@ -25,12 +25,14 @@ Education
 
 Work experience
 ======
-* *May 2020 - present*: **Senior Research Fellow**
-  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, India
+* *Febraury 2023 - present*: **Postdoctoral Research Fellow**
+  * Department of Earth and Environmental Sciences, Univeristy of Michigan, Ann Arbor, USA
+* *May 2020 - January 2023*: **Senior Research Fellow**
+  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, New Delhi, India
 * *May 2018 - May 2020*: **Junior Research Fellow**
-  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, India
+  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, New Delhi, India
 * *July 2017 - May 2018*: **Project Associate**
-  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, India
+  * Centre for Atmospheric Sciences, Indian Institute of Technology Delhi, New Delhi, India
 * *December 2016 - April 2017*: **Project Student**
   * ESSO - Indian National Centre for Ocean Information Services, Hyderabad, India
   
