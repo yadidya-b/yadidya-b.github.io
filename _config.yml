@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "B. Yadidya"
-description              : &description "Ph.D. candidate"
+description              : &description "Postdoc"
 url                      : https://yadidya-b.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"Yadidya5/yadidya5.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "B. Yadidya"
   avatar           : "profile.JPG"  # "profile.png"
-  bio              : "Ph.D. candidate, Indian Institute of Technology Delhi"
+  bio              : "Postdoc, University of Michigan"
   location         : "New Delhi, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
