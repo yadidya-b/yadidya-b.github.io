@@ -12,8 +12,7 @@ redirect_from:
 
 I'm B. Yadidya.
 
-I'm currently working as a Postdoctoral Research Fellow with [Prof. Brian K. Arbic](https://arbic.earth.lsa.umich.edu) in the Department of Earth & Environmental Sciences, University of Michigan, Ann Arbor. 
-
+I'm currently working as a Postdoctoral Research Fellow with [Prof. Brian K. Arbic](https://arbic.earth.lsa.umich.edu) in the [Department of Earth & Environmental Sciences](https://lsa.umich.edu/earth), [University of Michigan](https://umich.edu), Ann Arbor. \
 <u>Project title</u>: "Diagnosis and Validation of the Time and Spatial Variability of Remotely Generated Internal Waves in Global Ocean Simulations".
 
 
