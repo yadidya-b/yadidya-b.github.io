@@ -41,9 +41,8 @@ Skills
 ======
 * ### Numerical Modeling
   * Massachusetts Institute of Technology General Circulation Model **(MITgcm)**
+  * HYbrid Coordinate Ocean Model **(HYCOM)**
   * Regional Ocean Modeling System **(ROMS)**
-  <!-- * Price Weller Pinkel **(PWP)** model
-  * Garrett Munk **(GM)** model -->
 * ### Programming
   * Python
   * Matlab
