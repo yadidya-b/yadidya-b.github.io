@@ -21,6 +21,7 @@ The Andaman Sea, in the northeast Indian Ocean, is renowned for large-amplitude 
 
 ---
 
+
 **Summary**
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43247-022-00574-8/MediaObjects/43247_2022_574_Fig7_HTML.png?as=webp)
