@@ -1,0 +1,13 @@
+---
+title: "The effect of climate change on internal wave activity in the Andaman Sea"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/egu2023
+venue: "EGU General Assembly 2023"
+date: 2023-04
+location: "online"
+value: "9"
+text: "Makar, P., Rao, A. D., <b> Yadidya, B. </b>, & Pant, V., &quot;Study of Internal Tides characteristics in the
+Eastern Arabian Sea&quot;, <b><i>EGU General Assembly 2023</i></b>, Vienna, Austria, 23–28 April 2023, https://doi.org/10.5194/egusphere-egu23-13066, 2023."
+---
+
