@@ -7,7 +7,7 @@ venue: "Univeristy of Michigan"
 date: 2024-03-29
 location: "Ann Arbor, MI, USA"
 value: "15"
-text: "<b>Yadidya, B.,</b> &quot;What is an Oceanographer doing in Michigan? - Predicting Internal Tides using Supercomputers&quot;, <b><i>Smith Lecture</i></b>, Department of Earth & Environmental Sciences, University of Michigan, March 2024, Ann Arbor, MI."
+text: "<span style='color: red;'><b>Yadidya, B.,</b> &quot;What is an Oceanographer doing in Michigan? - Predicting Internal Tides using Supercomputers&quot;, <b><i>Smith Lecture</i></b>, Department of Earth & Environmental Sciences, University of Michigan, March 2024, Ann Arbor, MI.</span>"
 ---
 
 
