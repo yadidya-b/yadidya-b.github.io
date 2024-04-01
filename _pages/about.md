@@ -13,6 +13,8 @@ redirect_from:
 I'm B. Yadidya.
 
 I'm currently working as a Postdoctoral Research Fellow with [Prof. Brian K. Arbic](https://arbic.earth.lsa.umich.edu) in the [Department of Earth & Environmental Sciences](https://lsa.umich.edu/earth), [University of Michigan](https://umich.edu), Ann Arbor. \
+My research focuses on leveraging high-resolution data-assimilative [HYCOM](https://www.hycom.org/) simulations in conjunction with satellite altimetry, including the newly launched [SWOT](https://swot.jpl.nasa.gov/) satellite, to map and understand the global internal wave field.
+
 <u>Project title</u>: "Diagnosis and Validation of the Time and Spatial Variability of Remotely Generated Internal Waves in Global Ocean Simulations".
 
 
