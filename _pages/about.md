@@ -41,3 +41,11 @@ My PhD was funded by the Department of Science and Technology, India under the I
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+---
+
+# Talks
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
