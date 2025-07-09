@@ -20,6 +20,6 @@ The seasonal variability of Internal tides (ITs) in the Eastern Arabian Sea was 
 
 [Read online](https://doi.org/10.1029/2024JC021529)
 
-[Download paper here]()
+[Download paper here](https://www.researchgate.net/journal/Journal-of-Geophysical-Research-Oceans-2169-9291/publication/393503338_Seasonal_Variability_of_Internal_Tides_and_Associated_Energy_Budget_Over_the_Eastern_Arabian_Sea_Observations_and_Modeling/links/686d4ee292697d42903dd4ff/Seasonal-Variability-of-Internal-Tides-and-Associated-Energy-Budget-Over-the-Eastern-Arabian-Sea-Observations-and-Modeling.pdf?origin=publicationDetail&_sg%5B0%5D=xxSkJPi7X0lEOuygFbWWy2TCnbswVYwAjdCXLwMmT0f79-N7nO8g95m0b-CCpSxs4GeAlyXQ2YkU8FKuSyuwGw.sLq5ztdbkvidrWmjzAxyy5wlccSf7CyXzQVaMtVL4KlcmCm1VmotZZETtTkjA-BVvNFk1tPuxHqvq4Hb-_d_Sg&_sg%5B1%5D=PCfcmWZTYnunYNALaj5CAKkDrRLLESpwtpFUKBk-sfn84xgk2YMlZckJ9krEM8VeklOt4CucZsQlEaxUhGU6MQcnuDJnQyQFQ4cFJrX-hKwU.sLq5ztdbkvidrWmjzAxyy5wlccSf7CyXzQVaMtVL4KlcmCm1VmotZZETtTkjA-BVvNFk1tPuxHqvq4Hb-_d_Sg&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)
 
 
