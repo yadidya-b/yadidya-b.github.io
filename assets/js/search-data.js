@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-datasets-amp-code",
+          title: "Datasets &amp; Code",
+          description: "Open-source code and datasets.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/data/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
