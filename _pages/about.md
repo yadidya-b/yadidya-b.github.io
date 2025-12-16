@@ -44,7 +44,7 @@ My research focuses on the multi-scale dynamics of the ocean, with a specific em
 * **Internal Gravity Waves & Tides:**
     * Diagnosing **global energy budgets** and lifecycle of internal tides (generation, propagation, and dissipation).
     * Distinguishing between **coherent and incoherent internal tides** in complex ocean environments.
-    * Investigating the variability of internal waves across diurnal, seasonal, and interannual timescales.
+    * Investigating the variability of internal waves across multiple timescales.
 
 * **High-Resolution Ocean Modeling:**
     * Utilizing **global HYCOM simulations** with tidal forcing and data assimilation.
@@ -52,7 +52,7 @@ My research focuses on the multi-scale dynamics of the ocean, with a specific em
     * Developing frameworks to predict the spatiotemporal variability of the internal wave field.
 
 * **Regional Ocean Dynamics:**
-    * **Indian Ocean Circulation:** Examining the unique stratification and wave activity in the Bay of Bengal and Andaman Sea.
+    * **Indian Ocean Circulation:** Examining the unique stratification and internal tide activity in the Andaman Sea, Bay of Bengal and Arabian Sea.
     * **Climate Teleconnections:** Understanding how large-scale modes (like the Indian Ocean Dipole) modulate small-scale mixing processes.
 
 ### Background
