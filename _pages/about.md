@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.jpg  # We will upload your photo later!
+  image_circular: false # Change to true if you want a circle crop
+  address: >
+    <p>Department of Earth & Environmental Sciences</p>
+    <p>University of Michigan</p>
+    <p>Ann Arbor, MI, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,34 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a **Physical Oceanographer** and Postdoctoral Research Fellow at the [University of Michigan](https://lsa.umich.edu/earth), working with Prof. Brian K. Arbic.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of **high-resolution numerical modeling** and **satellite oceanography**. I focus on understanding the global internal wave field by bridging the gap between global ocean simulations (like HYCOM) and cutting-edge satellite altimetry data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, my work is centered on the **SWOT (Surface Water and Ocean Topography)** mission. I utilize data-assimilative simulations to diagnose and validate the time and spatial variability of remotely generated internal waves. My goal is to improve our ability to map internal tides and gravity waves, which is crucial for closing the global ocean energy budget.
+
+### Research Focus
+
+My research focuses on the multi-scale dynamics of the ocean, with a specific emphasis on how internal waves interact with the broader circulation and contribute to global mixing.
+
+* **Next-Generation Satellite Altimetry (SWOT):**
+    * Developing **internal tide correction products** for the SWOT mission using global, data-assimilative hydrodynamic models.
+    * Isolating internal wave signatures from balanced motions (eddies) in wide-swath altimetry data.
+
+* **Internal Gravity Waves & Tides:**
+    * Diagnosing **global energy budgets** and lifecycle of internal tides (generation, propagation, and dissipation).
+    * Distinguishing between **coherent and incoherent internal tides** in complex ocean environments.
+    * Investigating the variability of internal waves across diurnal, seasonal, and interannual timescales.
+
+* **High-Resolution Ocean Modeling:**
+    * Utilizing **global HYCOM simulations** with tidal forcing and data assimilation.
+    * Validating hydrodynamic models against in-situ (moorings) and remotely sensed data.
+    * Developing frameworks to predict the spatiotemporal variability of the internal wave field.
+
+* **Regional Ocean Dynamics:**
+    * **Indian Ocean Circulation:** Examining the unique stratification and wave activity in the Bay of Bengal and Andaman Sea.
+    * **Climate Teleconnections:** Understanding how large-scale modes (like the Indian Ocean Dipole) modulate small-scale mixing processes.
+
+### Background
+
+I received my PhD in January 2023 from the **Centre for Atmospheric Sciences, Indian Institute of Technology (IIT) Delhi**. My doctoral research, supervised by Prof. A. D. Rao and Prof. Vimlesh Pant, investigated the variability of internal waves in the **Andaman Sea**—a global hotspot for large-amplitude internal waves.
