@@ -4,38 +4,24 @@
     - title: Postdoctoral Research Fellow
       institution: University of Michigan, Ann Arbor
       year: 2023 - Present
-      description: >
-        Department of Earth & Environmental Sciences. <br>
-        Advisor: Prof. Brian K. Arbic. <br>
-        Research: Diagnosis and Validation of remotely generated internal waves using HYCOM simulations and SWOT satellite altimetry.
+      description: Working with Prof. Brian K. Arbic. Focus on HYCOM simulations and SWOT satellite altimetry.
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Atmospheric Sciences
-      institution: Indian Institute of Technology (IIT) Delhi
+      institution: IIT Delhi
       year: 2023
-      description: >
-        Thesis: "Variability of Internal waves in the Andaman Sea". <br>
-        Advisors: Prof. A. D. Rao and Prof. Vimlesh Pant. <br>
-        Funded by DST INSPIRE fellowship.
-    - title: M.Tech / B.Tech (Update This)
-      institution: Your University
-      year: 20XX
-      description: 
+      description: Thesis on Internal waves in the Andaman Sea.
 
 - title: Selected Talks
   type: time_table
   contents:
-    - title: Gordon Research Seminar
-      institution: Mount Holyoke College, MA
+    - title: Ocean Sciences Meeting
+      institution: New Orleans
       year: 2024
-      description: "Phase-Accurate Internal Tides in a Global Ocean Forecast Model."
-    - title: WHOI PO Seminar
+      description: Potential Applications of Phase-Accurate Internal Tides.
+    - title: WHOI Seminar
       institution: Woods Hole Oceanographic Institution
       year: 2024
-      description: "Invited Talk: Can we predict 'incoherent internal tides' in the global oceans?"
-    - title: Ocean Sciences Meeting
-      institution: New Orleans, LA
-      year: 2024
-      description: "Potential Applications of Phase-Accurate Internal Tides."
+      description: Invited Talk on Incoherent Internal Tides.

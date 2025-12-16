@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Research Fellow at <a href='https://lsa.umich.edu/earth' target='_blank'>University of Michigan</a>. Ann Arbor, MI.
 
 profile:
   align: right
@@ -17,21 +17,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Physical Oceanographer** and Postdoctoral Research Fellow at the [University of Michigan](https://lsa.umich.edu/earth), working with Prof. Brian K. Arbic.
+I am a **Physical Oceanographer** and Postdoctoral Research Fellow at the [University of Michigan](https://lsa.umich.edu/earth), working with Prof. [Brian K. Arbic](https://arbic.earth.lsa.umich.edu).
 
 My research lies at the intersection of **high-resolution numerical modeling** and **satellite oceanography**. I focus on understanding the global internal wave field by bridging the gap between global ocean simulations (like HYCOM) and cutting-edge satellite altimetry data.
 
-Currently, my work is centered on the **SWOT (Surface Water and Ocean Topography)** mission. I utilize data-assimilative simulations to diagnose and validate the time and spatial variability of remotely generated internal waves. My goal is to improve our ability to map internal tides and gravity waves, which is crucial for closing the global ocean energy budget.
+Currently, my work is centered on the **SWOT (Surface Water and Ocean Topography)** mission. I use data-assimilative simulations to diagnose and validate the time and spatial variability of internal tides. My goal is to improve our ability to map internal tides and gravity waves, which is crucial for closing the global ocean energy budget.
 
 ### Research Focus
 
@@ -48,7 +48,7 @@ My research focuses on the multi-scale dynamics of the ocean, with a specific em
 
 * **High-Resolution Ocean Modeling:**
     * Utilizing **global HYCOM simulations** with tidal forcing and data assimilation.
-    * Validating hydrodynamic models against in-situ (moorings) and remotely sensed data.
+    * Validating high-resolution hydrodynamic models against in-situ (moorings) and remotely sensed data.
     * Developing frameworks to predict the spatiotemporal variability of the internal wave field.
 
 * **Regional Ocean Dynamics:**
@@ -57,4 +57,4 @@ My research focuses on the multi-scale dynamics of the ocean, with a specific em
 
 ### Background
 
-I received my PhD in January 2023 from the **Centre for Atmospheric Sciences, Indian Institute of Technology (IIT) Delhi**. My doctoral research, supervised by Prof. A. D. Rao and Prof. Vimlesh Pant, investigated the variability of internal waves in the **Andaman Sea**—a global hotspot for large-amplitude internal waves.
+I received my PhD in January 2023 from the **Centre for Atmospheric Sciences, Indian Institute of Technology (IIT) Delhi**. My doctoral research, supervised by Prof. [A. D. Rao](https://web.iitd.ac.in/~adrao/) and Prof. [Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/), investigated the variability of internal waves in the **Andaman Sea**—a global hotspot for large-amplitude internal waves.
