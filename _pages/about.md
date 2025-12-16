@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Fellow at <a href='https://lsa.umich.edu/earth' target='_blank'>University of Michigan</a>. Ann Arbor, MI.
+# subtitle: Postdoctoral Research Fellow at <a href='https://lsa.umich.edu/earth' target='_blank'>University of Michigan</a>. Ann Arbor, MI.
 
 profile:
   align: right
   image: yadidya_image.jpg  # We will upload your photo later!
   image_circular: false # Change to true if you want a circle crop
-  address: >
+  more_info: >
     <p>Department of Earth & Environmental Sciences</p>
     <p>University of Michigan</p>
     <p>Ann Arbor, MI, USA</p>
