@@ -1,97 +1,96 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+general:
+  json: false
+  pdf: false
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+education:
+  - title: PhD in Oceanography
+    institution: Indian Institute of Technology (IIT) Delhi
+    year: Jan 2023
+    description: >
+      Thesis: "Variability of Internal waves in the Andaman Sea". <br>
+      Advisors: Prof. A. D. Rao and Prof. Vimlesh Pant. <br>
+      Funded by DST INSPIRE fellowship.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+  - title: M.Sc in Physical Oceanography
+    institution: Andhra University
+    year: 2017
+    description: 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+  - title: B.Sc
+    institution: Andhra Loyola College
+    year: 2014
+    description: 
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+experience:
+  - title: Postdoctoral Research Fellow
+    institution: University of Michigan, Ann Arbor, USA
+    year: 2023 - Present
+    description: >
+      Department of Earth & Environmental Sciences. <br>
+      Advisor: Prof. Brian K. Arbic. <br>
+      Research: Diagnosis and Validation of remotely generated internal waves using HYCOM simulations and SWOT satellite altimetry.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+talks:
+  - title: Gordon Research Seminar/Conference
+    institution: Mount Holyoke College, South Hadley, MA
+    year: Jun 2024
+    description: "Poster: Phase-Accurate Internal Tides in a Global Ocean Forecast Model."
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  - title: WHOI PO Seminar
+    institution: Woods Hole Oceanographic Institution
+    year: May 2024
+    description: "Invited Talk: Can we predict 'incoherent internal tides' in the global oceans?"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+  - title: Departmental Lecture
+    institution: University of Michigan, Ann Arbor, MI
+    year: Mar 2024
+    description: "Talk: What is an Oceanographer doing in Michigan? - Predicting Internal Tides using Supercomputers."
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+  - title: Ocean Sciences Meeting 2024
+    institution: New Orleans, LA, USA
+    year: Feb 2024
+    description: >
+      Talk: Potential Applications of Phase-Accurate Internal Tides in a Global Hydrodynamic Model. <br>
+      Posters: Estimating Internal Tide Uncertainty in Global HYCOM Ensemble Simulations; Computing directionality with internal wave antenna.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - title: SWOT Science Team Meeting 2023
+    institution: Toulouse, France
+    year: Sep 2023
+    description: >
+      Talk: Exploring the potential of hydrodynamical models for nadir and swath internal tide corrections. <br>
+      Poster: Eddies and Internal Gravity Waves in SWOT observations and ocean models.
+
+  - title: EGU General Assembly 2023
+    institution: Online
+    year: Apr 2023
+    description: "Talk: Study of Internal Tides characteristics in the Eastern Arabian Sea."
+
+  - title: EGU General Assembly 2022
+    institution: Online
+    year: May 2022
+    description: "Talk: The effect of climate change on internal wave activity in the Andaman Sea."
+
+  - title: Ocean Sciences Meeting 2022
+    institution: Online
+    year: Mar 2022
+    description: "Talk: Interannual variability of internal wave activity in the Andaman Sea."
+
+  - title: OSICON 2021
+    institution: NCPOR, Goa (Online)
+    year: Aug 2021
+    description: "Talk: Internal tide energetics in the Andaman Sea."
+
+  - title: EGU General Assembly 2021
+    institution: Online
+    year: Apr 2021
+    description: "Talk: Seasonal variations in the Andaman Sea's internal tides."
+
+  - title: AGU Fall Meeting 2020
+    institution: Online
+    year: Dec 2020
+    description: "Talk: Internal waves due to intrusion of sub-surface high-saline waters in the central Bay of Bengal."
+
+  - title: OSICON 2019
+    institution: CMLRE, Kochi
+    year: Dec 2019
+    description: "Talk: Simulation of diurnal variability in the vertical structure of temperature using a 1-D coupled model."

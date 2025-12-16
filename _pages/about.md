@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg  # We will upload your photo later!
+  image: yadidya_image.jpg  # We will upload your photo later!
   image_circular: false # Change to true if you want a circle crop
   address: >
     <p>Department of Earth & Environmental Sciences</p>
