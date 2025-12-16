@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yadidya-b.github.io/academic-v2/sitemap.xml
+Sitemap: https://yadidya-b.github.io/sitemap.xml
