@@ -2,26 +2,157 @@
   type: time_table
   contents:
     - title: Postdoctoral Research Fellow
-      institution: University of Michigan, Ann Arbor
-      year: 2023 - Present
-      description: Working with Prof. Brian K. Arbic. Focus on HYCOM simulations and SWOT satellite altimetry.
+      institution: University of Michigan, Ann Arbor, USA
+      year: Feb 2023 - Present
+      description: >
+        Department of Earth & Environmental Sciences. <br>
+        Advisor: Prof. Brian K. Arbic. 
+        Funded by ONR through National Oceanographic Partnesrship Program
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Atmospheric Sciences
-      institution: IIT Delhi
-      year: 2023
-      description: Thesis on Internal waves in the Andaman Sea.
+    - title: PhD in Oceanography
+      institution: Indian Institute of Technology (IIT) Delhi
+      year: Jan 2023
+      description: >
+        Thesis: "Variability of Internal waves in the Andaman Sea". <br>
+        Advisors: Prof. A. D. Rao and Prof. Vimlesh Pant. <br>
+        Funded by DST INSPIRE fellowship.
+    - title: M.Sc in Physical Oceanography
+      institution: Andhra University
+      year: 2017
+      description:
+    - title: B.Sc
+      institution: Andhra Loyola College
+      year: 2014
+      description:
 
-- title: Selected Talks
+- title: Funding
   type: time_table
   contents:
-    - title: Ocean Sciences Meeting
-      institution: New Orleans
+    - title: NASA Grant (Unpaid Collaborator)
+      institution: "Mesoscale eddies, internal waves, and solitons in SWOT, global models, and downscaled regional model"
       year: 2024
-      description: Potential Applications of Phase-Accurate Internal Tides.
-    - title: WHOI Seminar
+      description: Awarded to U-M, USM, FSU, and OSU ($726,862).
+ 
+- title: Seagoing Experience
+  type: time_table
+  contents:
+    - title: ONR NOPP Cruise
+      institution: R/V Sally Ride
+      year: Apr 2024
+      description: 9 days of deployment and operations.
+
+- title: Awards & Fellowships
+  type: time_table
+  contents:
+    - title: INSPIRE Fellowship
+      institution: Dept. of Science & Technology, India
+      year: 2018-2023
+      description: Awarded for pursuing doctoral research at IIT Delhi
+    - title: Sri Prof. V.P. Subrahmanyam Shastiabdi Poorthy Memorial Prize
+      institution: Andhra University
+      year: 2017
+      description:
+    - title: Gold Medalist in M.Sc. Physical Oceanography
+      institution: Andhra University
+      year: 2017
+      description:
+
+- title: Service
+  type: time_table
+  contents:
+    - title: Peer Reviewer
+      institution: International Journals
+      year: Ongoing
+      description: >
+        Nature Communications, Scientific Reports, Geophysical Research Letters (GRL),
+        Journal of Geophysical Research: Oceans (JGR-Oceans), Journal of Physical Oceanography (JPO),
+        Progress in Oceanography, Ocean Science, Earth and Space Science,
+        Geoscientific Model Development, Oceanologia.
+
+- title: Talks & Conferences
+  type: time_table
+  contents:
+    - title: SWOT Science Team Meeting 2025
+      institution: Arcachon, France
+      year: Oct 2025
+      description: >
+        Talk: Mapping Internal Tides with SWOT and HYCOM
+
+    - title: Seminar at NRL
+      institution: Naval Research Laboratory, Stennis Space Center, MS
+      year: Sep 2024
+      description: "Invited Talk: Exploring Internal Tides: From the Andaman Sea to Global Oceans"
+
+    - title: SWOT Science Team Meeting 2023
+      institution: North Carolina, USA
+      year: Jun 2024
+      description: >
+        Poster: Internal tides, Eddies and Spectra from SWOT observations and high-resolution modeling.
+
+    - title: Gordon Research Seminar/Conference
+      institution: Mount Holyoke College, South Hadley, MA
+      year: Jun 2024
+      description: "Poster: Phase-Accurate Internal Tides in a Global Ocean Forecast Model."
+
+    - title: WHOI PO Seminar
       institution: Woods Hole Oceanographic Institution
-      year: 2024
-      description: Invited Talk on Incoherent Internal Tides.
+      year: May 2024
+      description: "Invited Talk: Can we predict 'incoherent internal tides' in the global oceans?"
+
+    - title: Departmental Lecture
+      institution: University of Michigan, Ann Arbor, MI
+      year: Mar 2024
+      description: "Talk: What is an Oceanographer doing in Michigan? - Predicting Internal Tides using Supercomputers."
+
+    - title: Ocean Sciences Meeting 2024
+      institution: New Orleans, LA, USA
+      year: Feb 2024
+      description: >
+        Talk: Potential Applications of Phase-Accurate Internal Tides in a Global Hydrodynamic Model. <br>
+        Posters: Estimating Internal Tide Uncertainty in Global HYCOM Ensemble Simulations; Computing directionality with internal wave antenna.
+
+    - title: SWOT Science Team Meeting 2023
+      institution: Toulouse, France
+      year: Sep 2023
+      description: >
+        Talk: Exploring the potential of hydrodynamical models for nadir and swath internal tide corrections. <br>
+        Poster: Eddies and Internal Gravity Waves in SWOT observations and ocean models.
+
+    - title: EGU General Assembly 2023
+      institution: Online
+      year: Apr 2023
+      description: "Talk: Study of Internal Tides characteristics in the Eastern Arabian Sea."
+
+    - title: EGU General Assembly 2022
+      institution: Online
+      year: May 2022
+      description: "Talk: The effect of climate change on internal wave activity in the Andaman Sea."
+
+    - title: Ocean Sciences Meeting 2022
+      institution: Online
+      year: Mar 2022
+      description: "Talk: Interannual variability of internal wave activity in the Andaman Sea."
+
+    - title: OSICON 2021
+      institution: NCPOR, Goa (Online)
+      year: Aug 2021
+      description: "Talk: Internal tide energetics in the Andaman Sea."
+
+    - title: EGU General Assembly 2021
+      institution: Online
+      year: Apr 2021
+      description: "Talk: Seasonal variations in the Andaman Sea's internal tides."
+
+    - title: AGU Fall Meeting 2020
+      institution: Online
+      year: Dec 2020
+      description: "Talk: Internal waves due to intrusion of sub-surface high-saline waters in the central Bay of Bengal."
+
+    - title: OSICON 2019
+      institution: CMLRE, Kochi
+      year: Dec 2019
+      description: "Talk: Simulation of diurnal variability in the vertical structure of temperature using a 1-D coupled model."
+
