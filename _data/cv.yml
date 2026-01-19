@@ -1,9 +1,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Faculy I
+      institution: Florida State University, Tallahassee, FL, USA
+      year: 2026.01 - Present
+      description: >
+        Center for Ocean-Atmospheric Prediction Studies (COAPS). 
+
+- title: Experience
+  type: time_table
+  contents:
     - title: Postdoctoral Research Fellow
       institution: University of Michigan, Ann Arbor, USA
-      year: 2023.02 - Present
+      year: 2023.02 - 2026.01
       description: >
         Department of Earth & Environmental Sciences. <br>
         Advisor: Prof. Brian K. Arbic. 
