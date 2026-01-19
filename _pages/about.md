@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Postdoctoral Research Fellow at <a href='https://lsa.umich.edu/earth' target='_blank'>University of Michigan</a>. Ann Arbor, MI.
+subtitle: Research Faculty at <a href='https://www.coaps.fsu.edu/' target='_blank'>COAPS, Florida State University</a>. Tallahassee, FL.
 
 profile:
   align: right
-  image: yadidya_image.jpg  # We will upload your photo later!
-  image_circular: false # Change to true if you want a circle crop
+  image: yadidya_image.jpg 
+  image_circular: false 
   more_info: >
-    <p>Department of Earth & Environmental Sciences</p>
-    <p>University of Michigan</p>
-    <p>Ann Arbor, MI, USA</p>
+    <p>Center for Ocean-Atmospheric Prediction Studies (COAPS)</p>
+    <p>Florida State University</p>
+    <p>Tallahassee, FL, USA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true 
+social: true 
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true # Suggestion: Enable this to announce your new position!
+  scrollable: false 
+  limit: 5 
 
 latest_posts:
   enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: false 
+  limit: 3 
 ---
 
-I am a **Physical Oceanographer** and Postdoctoral Research Fellow at the [University of Michigan](https://lsa.umich.edu/earth), working with Prof. [Brian K. Arbic](https://arbic.earth.lsa.umich.edu).
-
+I am a **Physical Oceanographer** and Research Faculty at the [Center for Ocean-Atmospheric Prediction Studies (COAPS)](https://www.coaps.fsu.edu/), Florida State University. 
+ 
 My research lies at the intersection of **high-resolution numerical modeling** and **satellite oceanography**. I focus on understanding the global internal wave field by bridging the gap between global ocean simulations (like HYCOM) and cutting-edge satellite altimetry data.
 
 Currently, my work is centered on the **SWOT (Surface Water and Ocean Topography)** mission. I use data-assimilative simulations to diagnose and validate the time and spatial variability of internal tides. My goal is to improve our ability to map internal tides and gravity waves, which is crucial for closing the global ocean energy budget.
@@ -52,9 +52,9 @@ My research focuses on the multi-scale dynamics of the ocean, with a specific em
     * Developing frameworks to predict the spatiotemporal variability of the internal wave field.
 
 * **Regional Ocean Dynamics:**
-    * **Indian Ocean Circulation:** Examining the unique stratification and internal tide activity in the Andaman Sea, Bay of Bengal and Arabian Sea.
+    * **Indian Ocean Circulation:** Examining the unique stratification and internal tide activity in the Andaman Sea, Bay of Bengal, and Arabian Sea.
     * **Climate Teleconnections:** Understanding how large-scale modes (like the Indian Ocean Dipole) modulate small-scale mixing processes.
 
 ### Background
 
-I received my PhD in January 2023 from the **Centre for Atmospheric Sciences, Indian Institute of Technology (IIT) Delhi**. My doctoral research, supervised by Prof. [A. D. Rao](https://web.iitd.ac.in/~adrao/) and Prof. [Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/), investigated the variability of internal waves in the **Andaman Sea**—a global hotspot for large-amplitude internal waves.
+Before joining FSU, I was a Postdoctoral Research Fellow at the [University of Michigan](https://lsa.umich.edu/earth), where I worked with Prof. [Brian K. Arbic](https://arbic.earth.lsa.umich.edu). I received my PhD in January 2023 from the **Centre for Atmospheric Sciences, Indian Institute of Technology (IIT) Delhi**. My doctoral research, supervised by Prof. [A. D. Rao](https://web.iitd.ac.in/~adrao/) and Prof. [Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/), investigated the variability of internal waves in the **Andaman Sea**—a global hotspot for large-amplitude internal waves.
