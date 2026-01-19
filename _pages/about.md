@@ -17,7 +17,7 @@ selected_papers: true
 social: true 
 
 announcements:
-  enabled: true # Suggestion: Enable this to announce your new position!
+  enabled: false # Suggestion: Enable this to announce your new position!
   scrollable: false 
   limit: 5 
 
